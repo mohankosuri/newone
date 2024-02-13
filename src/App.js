@@ -83,7 +83,7 @@ function App() {
                'X-RapidAPI-Key': '8d5a988d4fmsh76b78ab88329b45p14286bjsn418dbed7c5e1',
                'X-RapidAPI-Host': 'imdb8.p.rapidapi.com'
             }
-         };
+         }; 
 
          try {
             const response = await fetch(url, options);
